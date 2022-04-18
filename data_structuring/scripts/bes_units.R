@@ -1,3 +1,11 @@
+for (package in c("haven","creditmodel","tidyverse","labelled","devtools")){
+  if (!package %in% installed.packages()[,1]){
+    install.packages(package)
+  }
+}
+
+devtools::install_github("chrishanretty/pano")
+
 library(haven)
 library(creditmodel)
 library(tidyverse)

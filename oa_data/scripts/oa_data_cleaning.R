@@ -1,3 +1,7 @@
+if (!"tidyverse" %in% installed.packages()[,1]){
+  install.packages("tidyverse")
+}
+
 library(tidyverse)
 rm(list=ls())
 

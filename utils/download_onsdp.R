@@ -3,6 +3,6 @@ onspd_url <- "https://www.arcgis.com/sharing/rest/content/items/b8920bf40db14e04
 
 temp <- tempfile()
 
-download.file(onspd_url, temp)
+download.file(onspd_url, temp, mode="wb")
 
 unzip(temp,exdir="oa_data/data/onspd")

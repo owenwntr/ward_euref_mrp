@@ -9,9 +9,9 @@ print(paste("PACKAGES LOADED Task - ",i,", PCT COMPLETE - ",100*i/j,"%",sep=""))
 
 valid <- read_excel("validation/data/true-ward-results.xlsx")
 valid$turnout <- NA
-valid$turnout[which(valid$Postals=="P")] <- valid$Remain[which(valid$Postals=="P")] + valid$Leave[which(valid$Postals=="P")]
+valid$turnout[which(!is.na(valid$Postals))] <- valid$Remain[which(!is.na(valid$Postals))] + valid$Leave[which(!is.na(valid$Postals))]
 
-validation_test_wards <- valid$WardCode[which(valid$Postals=="P")]
+validation_test_wards <- valid$WardCode[which(!is.na(valid$Postals))]
 
 ###
 i <- 2

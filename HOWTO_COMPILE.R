@@ -37,5 +37,11 @@ source("validation/scripts/validation_test_split.R", echo=TRUE)
 
 # 6. Model turnout
 
+source("model/scripts/turnout_model.R")
+
+# 7. Scale turnout predictions
+
+
+
 
 

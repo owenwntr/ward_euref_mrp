@@ -166,8 +166,9 @@ results <- read.csv("model/turnout_models.csv")
 
 load("model/models/turnout_model.rda")
 
-ps_frame$pred_turnout <- NA
-ps_frame$pred_turnout[which(ps_frame$ward %in% validation_wards)] <- predict(turnout_model,
-                                                                             newdata=ps_frame[which(ps_frame$ward %in% validation_wards),],
+wards$pred_turnout <- NA
+wards$pred_turnout[which(wards$ward %in% validation_wards)] <- predict(turnout_model,
+                                                                             newdata=wards[which(wards$ward %in% validation_wards),],
                                                                              type="response",
                                                                              allow.new.levels=TRUE)
+

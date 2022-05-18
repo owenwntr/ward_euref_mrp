@@ -5,14 +5,14 @@ valid$leave_pct <- valid$Leave/valid$turnout
 
 validate_vote <- function(vote_model) {
   
-  ps_frame$pred_leave <- NA
+  wards$pred_leave <- NA
   
-  ps_frame$pred_leave[which(ps_frame$ward %in% validation_wards)] <- 
+  wards$pred_leave[which(wards$ward %in% validation_wards)] <- 
     predict(vote_model,
-            newdata=ps_frame[which(ps_frame$ward %in% validation_wards),],
+            newdata=wards[which(wards$ward %in% validation_wards),],
             type="response",allow.new.levels=TRUE)
   
-  wards_sum <- ps_frame[which(wards$ward %in% validation_wards),] %>% 
+  wards_sum <- wards[which(wards$ward %in% validation_wards),] %>% 
     group_by(ward) %>%
     summarise(pop = sum(value),
               turnout = sum(voters),
@@ -24,7 +24,7 @@ validate_vote <- function(vote_model) {
   
   train_AIC <- AIC(vote_model)
   
-  print(paste(" Validation Wards MSE: ", round(val_mse,3), " "))
+  print(paste(" Validation Wards MSE^0.5: ", round(sqrt(val_mse),3), " "))
   print(paste(" MODEL AIC: ", round(train_AIC,0)," "))
   
   return(c(val_mse,train_AIC))
@@ -66,7 +66,7 @@ aic_scores <- c()
 mse_scores <- c()
 model_no <- c()
 
-for (i in 0:60){
+for (i in 5:60){
   
   model_no <- append(model_no, i)
   print(paste(" MODEL NUMBER:",i,""))
@@ -78,7 +78,7 @@ for (i in 0:60){
   
   fe <- paste(fes_included,collapse="+")
   
-  formula <- paste("p_eurefvote ~ (1|msoa) + (1|pcon) + (1|la) +
+  formula <- paste("p_eurefvote ~ (1|msoa) + (1|pcon) +
                    (1|agegroup:edlevel:rgn) +
                    (1|msoa:agegroup) + (1|msoa:edlevel) +
                    (1|la:agegroup) + (1|la:edlevel) +
@@ -115,10 +115,10 @@ for (i in 0:60){
      lines(model_no,aic_scores,col="red")
      par(new=TRUE)
      plot(model_no,mse_scores,axes=FALSE,xlab="",ylab="")
-     lines(model_no,cor_scores,col="green")
-     axis(side=4,at=pretty(range(cor_scores)))
+     lines(model_no,mse_scores,col="green")
+     axis(side=4,at=pretty(range(mse_scores)))
      abline(v=model_no[which(aic_scores==min(aic_scores))],lty=2)
-     abline(v=model_no[which(cor_scores==min(mse_scores))],lty=3)
+     abline(v=model_no[which(mse_scores==min(mse_scores))],lty=3)
      
    }
    

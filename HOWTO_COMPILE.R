@@ -37,10 +37,23 @@ source("validation/scripts/validation_test_split.R", echo=TRUE)
 
 # 6. Model turnout
 
-source("model/scripts/turnout_model.R")
+source("model/scripts/turnout_model.R",echo=TRUE)
 
 # 7. Scale turnout predictions
 
+source("model/scaling/scripts/turnout_scaling.R",echo=TRUE)
+
+# 8. Vote Model
+
+source("model/scripts/vote_model.R",echo=TRUE)
+
+# 9. Scale vote predictions
+
+source("model/scaling/scripts/vote_scaling.R",echo=TRUE)
+
+# 10. Validate and test predictions
+
+source("validation/scripts/final_validation.R", echo=TRUE)
 
 
 

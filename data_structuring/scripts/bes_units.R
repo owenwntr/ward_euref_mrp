@@ -97,7 +97,7 @@ bes$agegroup[which((bes$ageW10>49)&(bes$ageW10<65))] <- 4
 bes$agegroup[which((bes$ageW10>64))] <- 5
 
 bes$edlevel <- NA  
-bes$edlevel[which(bes$p_educationW10 %in% c(1))] <- "0"
+bes$edlevel[which(bes$p_educationW10 %in% c(1))] <- "None"
 bes$edlevel[which(bes$p_educationW10 %in% c(2,8,10))] <- "1"
 bes$edlevel[which(bes$p_educationW10 %in% c(4,18))] <- "Other"
 bes$edlevel[which(bes$p_educationW10 %in% c(3))] <- "Apprentice"
@@ -109,7 +109,7 @@ bes$edlevel[which(bes$p_educationW10 %in% c(19,20))] <- "DK"
 bes$edlevel[which((bes$p_educationW10 %in% c(2,4,5,8,9,10))&(bes$gorW10==11))] <- "1 Scotland"
 bes$edlevel[which((bes$p_educationW10 %in% c(3,6,7,11,12))&(bes$gorW10==11))] <- "2 Scotland"
 bes$edlevel[which((bes$p_educationW10 %in% c(15))&(bes$gorW10==11))] <- "3 Scotland"
-bes$edlevel[which((bes$p_educationW10 %in% c(13,14,16,17))&(bes$gorW10==11))] <- "3 Scotland"
+bes$edlevel[which((bes$p_educationW10 %in% c(13,14,16,17))&(bes$gorW10==11))] <- "4 Scotland"
 bes$edlevel[which((bes$p_educationW10 %in% c(18,19,20))&(bes$gorW10==11))] <- "DK"
 
 ###

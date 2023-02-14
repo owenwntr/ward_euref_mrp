@@ -11,6 +11,8 @@ msoas$vote_scaling <- la_results$vote_scaling[match(msoas$la,la_results$Area_Cod
 msoas$pred_leave_scaled <- msoas$pred_leave*msoas$vote_scaling
 
 msoa_results <- msoas %>% group_by(msoa,la) %>%
-  summarise(pred_leave = weighted.mean(pred_leave_scaled,voters))
+  summarise(pred_leave = weighted.mean(pred_leave_scaled,voters),
+            voters = sum(voters),
+            population = sum(value))
 
 write.csv(msoa_results,"msoa_results.csv")

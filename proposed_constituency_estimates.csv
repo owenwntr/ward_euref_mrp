@@ -1,0 +1,633 @@
+"","new_pcon","pred_leave"
+"1","Aberafan Porthcawl",0.562215673751665
+"2","Aberdeen North",0.433554257961378
+"3","Aberdeen South",0.344865356033844
+"4","Aberdeenshire Central",0.441135204932906
+"5","Aberdeenshire North and Moray East",0.544501148218644
+"6","Airdrie",0.389582672968691
+"7","Aldershot BC",0.575591921904167
+"8","Aldridge-Brownhills BC",0.684188862100738
+"9","Altrincham and Sale West BC",0.406662886740374
+"10","Alyn and Deeside",0.584732480016568
+"11","Amber Valley CC",0.631881883417442
+"12","Argyll, Bute and South Lochaber",0.398517580357944
+"13","Arundel and South Downs CC",0.528739982198442
+"14","Ashfield CC",0.708639982105572
+"15","Ashford CC",0.593476685269281
+"16","Ashton-under-Lyne BC",0.621912916671662
+"17","Aylesbury CC",0.492483593363919
+"18","Ayr, Carrick and Cumnock",0.433051672854315
+"19","Banbury CC",0.49833324277451
+"20","Bangor Aberconwy",0.482538471358119
+"21","Barking BC",0.602664297301524
+"22","Barnsley North CC",0.68754115361644
+"23","Barnsley South CC",0.706840609389026
+"24","Barrow and Furness CC",0.573056273210142
+"25","Basildon and Billericay BC",0.676282325375788
+"26","Basingstoke BC",0.535829194609695
+"27","Bassetlaw CC",0.683719361927479
+"28","Bath CC",0.3391359582431
+"29","Bathgate and Linlithgow",0.417270482807904
+"30","Battersea BC",0.236003726616972
+"31","Beaconsfield CC",0.50038658241032
+"32","Bearsden and Campsie Fells",0.280325694749213
+"33","Beckenham and Penge BC",0.436299629973042
+"34","Bedford BC",0.525496692727852
+"35","Bedworth and North Warwickshire CC",0.670992691387902
+"36","Bermondsey and Old Southwark BC",0.251267381722467
+"37","Berwick and Morpeth CC",0.538949593950121
+"38","Berwickshire, Roxburgh and Selkirk",0.431913007929258
+"39","Bethnal Green and Stepney BC",0.306086460272996
+"40","Beverley and Holderness CC",0.594415464921808
+"41","Bexhill and Battle CC",0.579627368841914
+"42","Bexleyheath and Crayford BC",0.652539241551635
+"43","Bicester and Woodstock CC",0.485062369931214
+"44","Birkenhead BC",0.487860020414921
+"45","Birmingham Edgbaston BC",0.409897738320488
+"46","Birmingham Erdington BC",0.62280486014587
+"47","Birmingham Hall Green BC",0.414010520405592
+"48","Birmingham Hodge Hill BC",0.634572874300485
+"49","Birmingham Ladywood BC",0.397619197935112
+"50","Birmingham Northfield BC",0.601941753751848
+"51","Birmingham Perry Barr BC",0.479589509904276
+"52","Birmingham Selly Oak BC",0.451774863560289
+"53","Birmingham Yardley BC",0.582973357605685
+"54","Bishop Auckland CC",0.605984024495825
+"55","Blackburn BC",0.545314718823268
+"56","Blackpool North and Fleetwood BC",0.662380950885952
+"57","Blackpool South BC",0.671416044639989
+"58","Blaenau Gwent and Rhymney",0.623334929210007
+"59","Blaydon and Consett CC",0.559997201015656
+"60","Blyth and Ashington CC",0.58975881125192
+"61","Bognor Regis and Littlehampton BC",0.629177602280313
+"62","Bolsover CC",0.699608632522063
+"63","Bolton North East BC",0.589732761091789
+"64","Bolton South and Walkden BC",0.61739694989827
+"65","Bolton West CC",0.558514074147598
+"66","Bootle BC",0.489883163162134
+"67","Boston and Skegness CC",0.749870936573883
+"68","Bournemouth East BC",0.547303779858992
+"69","Bournemouth West BC",0.539510196116671
+"70","Bracknell BC",0.544910519360496
+"71","Bradford East BC",0.578832582157925
+"72","Bradford South BC",0.613637566489525
+"73","Bradford West BC",0.512966034610354
+"74","Braintree CC",0.601053684023343
+"75","Brecon, Radnor and Cwm-tawe",0.530330871159135
+"76","Brentford and Isleworth BC",0.463413865441872
+"77","Brentwood and Ongar CC",0.613185650725912
+"78","Bridgend",0.551350262421806
+"79","Bridgwater CC",0.630701197707688
+"80","Bridlington and The Wolds CC",0.651888371849375
+"81","Brigg and Immingham CC",0.674877040751472
+"82","Brighton Kemptown BC",0.398764088955466
+"83","Brighton Pavilion BC",0.258708851406764
+"84","Bristol Central BC",0.189042833369491
+"85","Bristol East BC",0.455796888531624
+"86","Bristol North East BC",0.499066534105382
+"87","Bristol North West BC",0.386159838990366
+"88","Bristol South BC",0.465888670676857
+"89","Broadland and Fakenham CC",0.549401332289796
+"90","Bromley and Biggin Hill BC",0.502568634304574
+"91","Bromsgrove CC",0.553651279435518
+"92","Broxbourne CC",0.648532795305605
+"93","Broxtowe CC",0.543512982508188
+"94","Buckingham and Bletchley CC",0.53416238379103
+"95","Burnley CC",0.660344105841184
+"96","Burton CC",0.638789969256974
+"97","Bury North BC",0.558862810165574
+"98","Bury South BC",0.525662845841801
+"99","Bury St Edmunds CC",0.556253602306141
+"100","Caerfyrddin",0.527166331669325
+"101","Caerphilly",0.561020978416209
+"102","Caithness, Sutherland and Easter Ross",0.458559956018508
+"103","Calder Valley CC",0.517757670637631
+"104","Camborne and Redruth CC",0.580487946518791
+"105","Cambridge BC",0.252929594894476
+"106","Cannock Chase CC",0.68860353130016
+"107","Canterbury CC",0.456351109923086
+"108","Cardiff East",0.409927437899902
+"109","Cardiff North",0.431145776430536
+"110","Cardiff South and Penarth",0.343049962457657
+"111","Cardiff West",0.439836454516204
+"112","Carlisle CC",0.602140799289175
+"113","Carshalton and Wallington BC",0.544282000541001
+"114","Castle Point BC",0.72769279259878
+"115","Central Ayrshire",0.420863809809059
+"116","Central Devon CC",0.513953223413969
+"117","Central Suffolk and North Ipswich CC",0.546805439297998
+"118","Ceredigion Preseli",0.475459656798803
+"119","Chatham and Aylesford CC",0.630266699849114
+"120","Cheadle BC",0.451254563287706
+"121","Chelmsford BC",0.500996122917867
+"122","Chelsea and Fulham BC",0.308305621646858
+"123","Cheltenham BC",0.419322135782124
+"124","Chesham and Amersham CC",0.487113826005114
+"125","Chester North and Neston CC",0.454108748403277
+"126","Chester South and Eddisbury CC",0.492318825587054
+"127","Chesterfield BC",0.595359935376839
+"128","Chichester CC",0.526786259015206
+"129","Chingford and Woodford Green BC",0.507107665694542
+"130","Chippenham CC",0.534019235744426
+"131","Chipping Barnet BC",0.403945214602159
+"132","Chorley CC",0.569896646593936
+"133","Christchurch CC",0.616956527258808
+"134","Cities of London and Westminster BC",0.307048073166222
+"135","City of Durham CC",0.468048062087463
+"136","Clackmannanshire and Forth Valley",0.414053062417297
+"137","Clacton CC",0.716633666307216
+"138","Clwyd East",0.524732737040708
+"139","Clwyd North",0.547734007617085
+"140","Coatbridge and Bellshill",0.387434598362197
+"141","Colchester BC",0.517288207975702
+"142","Colne Valley CC",0.512591212257658
+"143","Congleton CC",0.525649813889169
+"144","Corby and East Northamptonshire CC",0.606558552873916
+"145","Coventry East BC",0.621312521692336
+"146","Coventry North West BC",0.581615781803353
+"147","Coventry South BC",0.471686273879098
+"148","Cramlington and Killingworth CC",0.562400776882554
+"149","Crawley BC",0.584136714033621
+"150","Crewe and Nantwich CC",0.565458388680321
+"151","Croydon East BC",0.507699649188426
+"152","Croydon South BC",0.451313980880427
+"153","Croydon West and South Norwood BC",0.443181335427942
+"154","Dagenham and Rainham BC",0.695871448632462
+"155","Darlington CC",0.569678405048038
+"156","Dartford CC",0.639351063875564
+"157","Daventry CC",0.582975256973648
+"158","Derby North BC",0.534931819096124
+"159","Derby South BC",0.598466975262822
+"160","Derbyshire Dales CC",0.516055988161349
+"161","Dewsbury and Batley BC",0.573932237324211
+"162","Didcot and Wantage CC",0.458528052097176
+"163","Doncaster Central CC",0.656756781268601
+"164","Doncaster East and Axholme CC",0.670759903222009
+"165","Doncaster North CC",0.722089095971983
+"166","Dorking and Horley CC",0.492539106864481
+"167","Dover and Deal CC",0.627289235090518
+"168","Droitwich and Evesham CC",0.585355365804956
+"169","Dudley BC",0.691525823274792
+"170","Dulwich and West Norwood BC",0.237082915755724
+"171","Dumfries and Galloway",0.462197107985735
+"172","Dumfriesshire, Clydesdale and Tweeddale",0.430404757194068
+"173","Dundee East and Arbroath",0.435773037939177
+"174","Dundee West",0.394422474476063
+"175","Dunfermline and East Ochils",0.386899144513163
+"176","Dunstable and Leighton Buzzard CC",0.585249929394471
+"177","Dwyfor Meirionnydd",0.44557071573852
+"178","Ealing Central and Acton BC",0.335137432517953
+"179","Ealing North BC",0.458999006715473
+"180","Ealing Southall BC",0.392668853104549
+"181","Earley and Woodley BC",0.447661392036171
+"182","Easington CC",0.645366757118156
+"183","East Cambridgeshire CC",0.488157935392214
+"184","East Grinstead and Uckfield CC",0.487961614313706
+"185","East Ham BC",0.504513460071589
+"186","East Hampshire CC",0.488512844552665
+"187","East Kilbride and Strathaven",0.348869868866153
+"188","East Lothian and Lammermuirs",0.357353016145901
+"189","East Renfrewshire",0.256814189380631
+"190","East Surrey CC",0.529103916971385
+"191","East Thanet BC",0.633925328379617
+"192","East Wiltshire CC",0.520720009783379
+"193","East Worthing and Shoreham CC",0.541168475896981
+"194","Eastbourne BC",0.573349519096087
+"195","Eastleigh BC",0.51995126746828
+"196","Edinburgh East",0.288528372471347
+"197","Edinburgh North and Leith",0.219370766771354
+"198","Edinburgh South",0.240792978838081
+"199","Edinburgh South West",0.273900064133662
+"200","Edinburgh West",0.268073913330199
+"201","Edmonton BC",0.440763802477164
+"202","Ellesmere Port and Bromborough BC",0.544227132202115
+"203","Eltham and Chislehurst BC",0.511277070810103
+"204","Enfield North BC",0.483092777333553
+"205","Epping Forest CC",0.608138641588326
+"206","Epsom and Ewell BC",0.47090224056599
+"207","Erewash CC",0.626617009246123
+"208","Erith and Thamesmead BC",0.502750634334275
+"209","Esher and Walton BC",0.401926583376074
+"210","Exeter BC",0.429316192733838
+"211","Exeter East and Exmouth CC",0.523713960199628
+"212","Falkirk",0.442355318178979
+"213","Fareham and Waterlooville CC",0.568727020734159
+"214","Farnham and Bordon CC",0.444045100541929
+"215","Faversham and Mid Kent CC",0.599602608415339
+"216","Feltham and Heston BC",0.564756758333663
+"217","Filton and Bradley Stoke BC",0.476513711810068
+"218","Finchley and Golders Green BC",0.339567072841355
+"219","Folkestone and Hythe CC",0.631206882786478
+"220","Forest of Dean CC",0.582902916336903
+"221","Frome CC",0.513856308074465
+"222","Fylde CC",0.573655376348606
+"223","Gainsborough CC",0.618176172995087
+"224","Gateshead and Whickham BC",0.547507807843173
+"225","Gedling CC",0.557223457163433
+"226","Gillingham and Rainham BC",0.645081323471395
+"227","Glasgow North",0.283996833037908
+"228","Glasgow North East",0.389614942456369
+"229","Glasgow South",0.305616860862394
+"230","Glasgow South East",0.359286369684199
+"231","Glasgow South West",0.367856365512339
+"232","Glasgow West",0.28731496779428
+"233","Glastonbury and Somerton CC",0.53453293016506
+"234","Glenrothes",0.466223283489845
+"235","Gloucester BC",0.590543057653971
+"236","Godalming and Ash CC",0.44884167629992
+"237","Goole and Pocklington CC",0.589441656526459
+"238","Gorton and Denton BC",0.551404772127132
+"239","Gosport BC",0.628319132695891
+"240","Gower and Swansea West",0.499756699764827
+"241","Grantham CC",0.621828457874398
+"242","Gravesham CC",0.653772079458537
+"243","Great Grimsby and Cleethorpes BC",0.700269000368524
+"244","Great Yarmouth CC",0.715049473348229
+"245","Greenwich and Woolwich BC",0.356863660523207
+"246","Guildford CC",0.416874970050009
+"247","Hackney North and Stoke Newington BC",0.226496556114548
+"248","Hackney South and Shoreditch BC",0.207768655190753
+"249","Halesowen BC",0.678202758678164
+"250","Halifax BC",0.596779790045543
+"251","Hamble Valley CC",0.512380751342543
+"252","Hamilton and Clyde Valley",0.380972003229591
+"253","Hammersmith and Chiswick BC",0.298259193426877
+"254","Hampstead and Highgate BC",0.24133940963181
+"255","Harborough CC",0.525803122170812
+"256","Harlow CC",0.667011133272896
+"257","Harpenden and Berkhamsted CC",0.403189684335977
+"258","Harrogate and Knaresborough CC",0.472366078115992
+"259","Harrow East BC",0.47144610231518
+"260","Harrow West BC",0.443587755722967
+"261","Hartlepool CC",0.695683297180044
+"262","Harwich and North Essex CC",0.589780345541729
+"263","Hastings and Rye CC",0.560226832600104
+"264","Havant BC",0.625616450937473
+"265","Hayes and Harlington BC",0.583642028620924
+"266","Hazel Grove CC",0.510599603968676
+"267","Headingley BC",0.298655890638453
+"268","Hemel Hempstead CC",0.542973281276964
+"269","Hendon BC",0.395662927386716
+"270","Henley CC",0.442502217396279
+"271","Hereford and South Herefordshire CC",0.598141084146184
+"272","Herne Bay and Sandwich CC",0.631569421492853
+"273","Hertford and Stortford CC",0.491290978521309
+"274","Hertsmere CC",0.512853220427118
+"275","Hexham CC",0.48706867314622
+"276","Heywood CC",0.618401118852174
+"277","High Peak CC",0.505480276475845
+"278","Hinckley and Bosworth CC",0.60511752533444
+"279","Hitchin CC",0.464314427925812
+"280","Holborn and St Pancras BC",0.249965741107254
+"281","Honiton and Sidmouth CC",0.554705482313737
+"282","Hornchurch and Upminster BC",0.705804022801835
+"283","Hornsey and Friern Barnet BC",0.218527349291421
+"284","Horsham CC",0.472039771260828
+"285","Houghton and Sunderland South CC",0.638166421805545
+"286","Hove and Portslade BC",0.340709434142378
+"287","Huddersfield BC",0.520984879535642
+"288","Huntingdon CC",0.528806382324136
+"289","Hyndburn CC",0.650232209833169
+"290","Ilford North BC",0.497853011974594
+"291","Ilford South BC",0.447019336309856
+"292","Inverclyde and Renfrewshire West",0.351282372853552
+"293","Inverness-shire and Wester Ross",0.422812967654246
+"294","Ipswich BC",0.570575138944349
+"295","Isle of Wight East CC",0.632197709342873
+"296","Isle of Wight West CC",0.606330714209346
+"297","Islington North BC",0.243032076445855
+"298","Islington South BC",0.247772437349474
+"299","Jarrow BC",0.637621372725399
+"300","Keighley and Ilkley CC",0.535545808361322
+"301","Kenilworth and Southam CC",0.478695281979645
+"302","Kensington and Bayswater BC",0.300015936570546
+"303","Kettering CC",0.608164653832811
+"304","Kilmarnock and Loudoun",0.403461685825441
+"305","Kilsyth Hills and Cumbernauld",0.35243734651208
+"306","Kingston upon Hull East BC",0.732197560890942
+"307","Kingston upon Hull North BC",0.584252761330143
+"308","Kingston upon Hull West and Hessle BC",0.646782017544353
+"309","Kingswinford and South Staffordshire CC",0.64600262840603
+"310","Kirkcaldy and Cowdenbeath",0.411553491381982
+"311","Knowsley BC",0.520552510665181
+"312","Lambeth Central BC",0.181752460970615
+"313","Lancaster and Wyre CC",0.50087528368562
+"314","Leeds Central BC",0.575898596676923
+"315","Leeds East CC",0.607532957811694
+"316","Leeds North East BC",0.38476227790517
+"317","Leeds North West CC",0.459294524735089
+"318","Leicester East BC",0.619162305359331
+"319","Leicester South BC",0.36926087565519
+"320","Leicester West BC",0.489755736331042
+"321","Leigh and Atherton BC",0.636408084725097
+"322","Lewes CC",0.500968548705746
+"323","Lewisham East BC",0.373940269141696
+"324","Lewisham North and Deptford BC",0.241930946358296
+"325","Lewisham West and East Dulwich BC",0.263069205416432
+"326","Leyton and Wanstead BC",0.365458058315813
+"327","Lichfield CC",0.592173753420521
+"328","Lincoln BC",0.574075180578863
+"329","Liverpool Garston BC",0.470372985482964
+"330","Liverpool Riverside BC",0.348775993207816
+"331","Liverpool Walton BC",0.503457624033808
+"332","Liverpool Wavertree BC",0.326035140964342
+"333","Liverpool West Derby BC",0.489364068705243
+"334","Livingston",0.422683397367203
+"335","Llanelli",0.548347067751533
+"336","Loughborough CC",0.475140727029095
+"337","Louth and Horncastle CC",0.689615136906498
+"338","Lowestoft CC",0.615254067209829
+"339","Luton North BC",0.585090956530538
+"340","Luton South and South Bedfordshire CC",0.546384801101153
+"341","Macclesfield CC",0.479752701169887
+"342","Maidenhead CC",0.478295406932718
+"343","Maidstone and Malling CC",0.560423153272922
+"344","Makerfield BC",0.643073645942309
+"345","Maldon CC",0.603935411746333
+"346","Manchester Blackley BC",0.569514494705272
+"347","Manchester Central BC",0.44276757564189
+"348","Manchester Rusholme BC",0.267938846034175
+"349","Manchester Withington BC",0.252081307809288
+"350","Mansfield CC",0.706791345899724
+"351","Melksham and Devizes CC",0.516274096439813
+"352","Melton and Syston CC",0.60948434931574
+"353","Meriden CC",0.562295563496039
+"354","Merthyr Tydfil and Upper Cynon",0.563163578294619
+"355","Mid and South Pembrokeshire",0.577965689287157
+"356","Mid Bedfordshire CC",0.540884812300109
+"357","Mid Berkshire CC",0.481092086570475
+"358","Mid Buckinghamshire CC",0.510938545456531
+"359","Mid Cheshire CC",0.544272317591509
+"360","Mid Derbyshire CC",0.56050138803455
+"361","Mid Dorset and North Poole CC",0.570996570857411
+"362","Mid Leicestershire CC",0.588660198430494
+"363","Mid Norfolk CC",0.621370499249449
+"364","Mid Sussex CC",0.457208785983307
+"365","Middlesbrough and Thornaby East BC",0.655561931646957
+"366","Middlesbrough South and East Cleveland CC",0.648329850737249
+"367","Midlothian",0.37940969473036
+"368","Milton Keynes North CC",0.521034528297281
+"369","Milton Keynes South BC",0.48764387101202
+"370","Mitcham and Morden BC",0.435494532716258
+"371","Monmouthshire",0.495577925579723
+"372","Montgomeryshire and Glyndwr",0.574379280931173
+"373","Morecambe and Lunesdale CC",0.551509172729667
+"374","Morley BC",0.57998202893371
+"375","Motherwell and Clydesdale North",0.379295955128309
+"376","Na h-Eileanan an Iar",0.447627994363551
+"377","Nairn, Strathspey and Moray West",0.464886250822096
+"378","Neath and Swansea East",0.570014564433165
+"379","New Forest East CC",0.56965619441755
+"380","New Forest West CC",0.586039178425396
+"381","Newark CC",0.575067064089506
+"382","Newbury CC",0.491493530598043
+"383","Newcastle upon Tyne Central and West BC",0.557657817741334
+"384","Newcastle upon Tyne East and Wallsend BC",0.54783848414619
+"385","Newcastle upon Tyne North BC",0.409423546015482
+"386","Newcastle-under-Lyme CC",0.615688288439047
+"387","Newport East",0.590238302427014
+"388","Newport West and Islwyn",0.53894590214867
+"389","Newton Abbot CC",0.557307071140855
+"390","Newton Aycliffe and Spennymoor CC",0.593562504337237
+"391","Normanton and Hemsworth CC",0.688060022778846
+"392","North Ayrshire and Arran",0.417744490167752
+"393","North Bedfordshire CC",0.532110721843346
+"394","North Cornwall CC",0.598507519853218
+"395","North Cotswolds CC",0.486798253047402
+"396","North Devon CC",0.570384794334063
+"397","North Dorset CC",0.557706194594212
+"398","North Durham CC",0.583255934477082
+"399","North East Cambridgeshire CC",0.713924676015658
+"400","North East Derbyshire CC",0.621862593523734
+"401","North East Fife",0.385849881150398
+"402","North East Hampshire CC",0.463240286464268
+"403","North East Hertfordshire CC",0.504859695494241
+"404","North East Somerset and Hanham CC",0.535187444468424
+"405","North Herefordshire CC",0.585923827528023
+"406","North Norfolk CC",0.588887711515743
+"407","North Shropshire CC",0.585947773398504
+"408","North Somerset CC",0.482822774501677
+"409","North Tayside",0.435797283674496
+"410","North West Cambridgeshire CC",0.57732619009044
+"411","North West Hampshire CC",0.526307276248598
+"412","North West Leicestershire CC",0.608793380493386
+"413","North West Norfolk CC",0.663148456759729
+"414","Northampton North BC",0.586535713352091
+"415","Northampton South BC",0.580625568121832
+"416","Norwich North BC",0.542163200766263
+"417","Norwich South BC",0.412018691571399
+"418","Nottingham East BC",0.449017801288491
+"419","Nottingham North and Kimberley BC",0.636360867917075
+"420","Nottingham South BC",0.455093580159014
+"421","Nuneaton CC",0.65312330230502
+"422","Old Bexley and Sidcup BC",0.644682877065235
+"423","Oldham East and Saddleworth CC",0.599080807331293
+"424","Oldham West and Royton BC",0.608005439426188
+"425","Orkney and Shetland",0.402813082528385
+"426","Orpington BC",0.541924737164235
+"427","Oxford East BC",0.345458414495518
+"428","Oxford West and Abingdon CC",0.33632596840519
+"429","Paisley and Renfrewshire North",0.358768981621228
+"430","Paisley and Renfrewshire South",0.359704072258319
+"431","Peckham BC",0.308030620348059
+"432","Pendle and Clitheroe CC",0.615369398229148
+"433","Penistone and Stocksbridge CC",0.598318632436139
+"434","Penrith and Solway CC",0.567612524495122
+"435","Perth and Loch Leven",0.378883578308438
+"436","Peterborough CC",0.630740046055245
+"437","Plymouth Moor View BC",0.675212659933518
+"438","Plymouth Sutton and Devonport BC",0.515720443825039
+"439","Pontefract and Castleford CC",0.696304202621021
+"440","Pontypridd",0.502930067867026
+"441","Poole BC",0.585767004744301
+"442","Poplar and Limehouse BC",0.33872436628688
+"443","Portsmouth North BC",0.672166723085195
+"444","Portsmouth South BC",0.500779185312719
+"445","Preston BC",0.531619340320464
+"446","Pudsey BC",0.554018222080841
+"447","Putney BC",0.265092530728173
+"448","Queen's Park and Little Venice BC",0.341415550145323
+"449","Rawmarsh and Conisbrough CC",0.702160358989409
+"450","Rayleigh and Wickford CC",0.673837113842298
+"451","Reading BC",0.384126504478187
+"452","Redcar BC",0.667193201880476
+"453","Redditch CC",0.614481932375575
+"454","Reigate CC",0.493656518302939
+"455","Rhondda",0.582333269759095
+"456","Ribble Valley CC",0.565007013097011
+"457","Richmond and Northallerton CC",0.551369651724663
+"458","Richmond Park and Kingston Central BC",0.278655706773799
+"459","Rochdale CC",0.578031064410108
+"460","Rochester and Strood CC",0.624737810872819
+"461","Rochford and Southend East CC",0.626877548564671
+"462","Romford BC",0.67315079217986
+"463","Romsey and Southampton North CC",0.4927530207343
+"464","Rossendale and Darwen CC",0.609305389190979
+"465","Rother Valley CC",0.656852395460741
+"466","Rotherham BC",0.690802882648121
+"467","Rugby CC",0.580007440674923
+"468","Ruislip, Northwood and Pinner BC",0.503261254948715
+"469","Runcorn and Helsby CC",0.551024369150132
+"470","Runnymede and Weybridge CC",0.516089462049381
+"471","Rushcliffe CC",0.41282324031797
+"472","Rutherglen",0.376911764167685
+"473","Rutland and Stamford CC",0.522206254992892
+"474","Saffron Walden CC",0.516756039649109
+"475","Salford BC",0.524741100596526
+"476","Salisbury CC",0.508375813847246
+"477","Scarborough and Whitby CC",0.615865337473346
+"478","Scunthorpe CC",0.672235260121966
+"479","Sefton Central CC",0.468964052427497
+"480","Selby CC",0.600504473375747
+"481","Sevenoaks CC",0.549537413923556
+"482","Sheffield Brightside and Hillsborough BC",0.631578475844624
+"483","Sheffield Central BC",0.286042766814
+"484","Sheffield Hallam CC",0.353758481384767
+"485","Sheffield Heeley BC",0.576534048739738
+"486","Sheffield South East BC",0.637439745100449
+"487","Sherwood Forest CC",0.630362277594722
+"488","Shipley CC",0.473523697013194
+"489","Shrewsbury CC",0.544472167228593
+"490","Sittingbourne and Sheppey CC",0.643102074461051
+"491","Skipton and Ripon CC",0.533021955458029
+"492","Sleaford and North Hykeham CC",0.624529175426789
+"493","Slough BC",0.538888674465931
+"494","Smethwick BC",0.611481262123131
+"495","Solihull BC",0.532543118783723
+"496","South Basildon and East Thurrock CC",0.738646499104844
+"497","South Cambridgeshire CC",0.398354832148673
+"498","South Cotswolds CC",0.485991999900778
+"499","South Derbyshire CC",0.61718222912732
+"500","South Devon CC",0.535461136465499
+"501","South Dorset CC",0.577216679256322
+"502","South East Cornwall CC",0.567448861321329
+"503","South Holland and The Deepings CC",0.715753662514883
+"504","South Leicestershire CC",0.567261345902082
+"505","South Norfolk CC",0.492062807869574
+"506","South Northamptonshire CC",0.545488422857002
+"507","South Ribble CC",0.579689895790719
+"508","South Shields BC",0.603784102753023
+"509","South Shropshire CC",0.578991233952969
+"510","South Suffolk CC",0.541852213895225
+"511","South West Devon CC",0.556919708424458
+"512","South West Hertfordshire CC",0.512099225292058
+"513","South West Norfolk CC",0.663667014951927
+"514","South West Wiltshire CC",0.561322924636639
+"515","Southampton Itchen BC",0.594480913035603
+"516","Southampton Test BC",0.510784440770523
+"517","Southend Central and Leigh BC",0.557767527555458
+"518","Southgate and Wood Green BC",0.343989227562255
+"519","Southport CC",0.500849648429793
+"520","Spelthorne BC",0.60299599003692
+"521","Spen Valley BC",0.595586544444081
+"522","St Albans CC",0.371690071473398
+"523","St Austell and Newquay CC",0.593010964003339
+"524","St Helens North CC",0.578733367252917
+"525","St Helens South and Whiston BC",0.573641038417208
+"526","St Ives CC",0.549390328326354
+"527","St Neots and Mid Cambridgeshire CC",0.450251487249568
+"528","Stafford CC",0.566156091544954
+"529","Staffordshire Moorlands CC",0.647451624107729
+"530","Stalybridge and Hyde CC",0.586572414560835
+"531","Stevenage CC",0.575700901691277
+"532","Stirling",0.322849138019182
+"533","Stockport BC",0.468096322510552
+"534","Stockton North CC",0.650730960060561
+"535","Stockton West CC",0.56302895052235
+"536","Stoke-on-Trent Central BC",0.665375652859444
+"537","Stoke-on-Trent North BC",0.720202194119184
+"538","Stoke-on-Trent South CC",0.675421120746975
+"539","Stone and Great Wyrley CC",0.621402445295374
+"540","Stourbridge BC",0.653924763552864
+"541","Stratford and Bow BC",0.384443539207706
+"542","Stratford-on-Avon CC",0.514035428664465
+"543","Streatham and Norbury BC",0.321053723828817
+"544","Stretford and Urmston BC",0.448142990772721
+"545","Stroud CC",0.460988249757558
+"546","Suffolk Coastal CC",0.560008479495367
+"547","Sunderland Central BC",0.581717107895294
+"548","Surbiton and The Maldens BC",0.418901132982134
+"549","Surrey Heath CC",0.507601394622489
+"550","Sussex Weald CC",0.54469553628702
+"551","Sutton and Cheam BC",0.530239819272702
+"552","Sutton Coldfield BC",0.501574850133426
+"553","Swansea Central and North",0.503543875436828
+"554","Swindon North CC",0.554516160324702
+"555","Swindon South BC",0.542192761346784
+"556","Tamworth CC",0.648096318013224
+"557","Tatton CC",0.460992514373433
+"558","Taunton CC",0.545555859400129
+"559","Telford BC",0.653306015235205
+"560","Tewkesbury CC",0.538049234103748
+"561","The Wrekin CC",0.593720749225933
+"562","Thirsk and Malton CC",0.564824321354044
+"563","Thornbury and Yate CC",0.544456670625467
+"564","Thurrock BC",0.696720959267075
+"565","Tipton and Wednesbury BC",0.727374672234667
+"566","Tiverton and Minehead CC",0.550963116673871
+"567","Tonbridge CC",0.554587963152817
+"568","Tooting BC",0.247483053001784
+"569","Torbay BC",0.625168635789565
+"570","Torfaen",0.597810734463277
+"571","Torridge and Tavistock CC",0.586020395713011
+"572","Tottenham BC",0.278472229784917
+"573","Truro and Falmouth CC",0.49555138101621
+"574","Tunbridge Wells CC",0.448950275616538
+"575","Twickenham BC",0.320527891944957
+"576","Tynemouth BC",0.497291438653515
+"577","Uxbridge and South Ruislip BC",0.550370632331439
+"578","Vale of Glamorgan",0.516669297159356
+"579","Vauxhall BC",0.233596348565519
+"580","Wakefield BC",0.627342377677166
+"581","Wakefield West and Denby Dale CC",0.575480152579043
+"582","Wallasey BC",0.496263058588076
+"583","Walsall and Bloxwich BC",0.648043614165848
+"584","Walthamstow BC",0.380877098470134
+"585","Warrington North CC",0.574029410778589
+"586","Warrington South CC",0.52804003781204
+"587","Warwick and Leamington BC",0.400563334025174
+"588","Washington BC",0.619133426024146
+"589","Watford BC",0.501507409874842
+"590","Waveney Valley CC",0.564465185855041
+"591","Weald of Kent CC",0.579339049950021
+"592","Wellingborough CC",0.629528397082979
+"593","Wells and Mendip Hills CC",0.502974966422408
+"594","Welwyn Hatfield CC",0.528213893324827
+"595","Wembley BC",0.42069939617131
+"596","West Aberdeenshire and Kincardine",0.38605978060296
+"597","West Bromwich BC",0.664501026578683
+"598","West Dorset CC",0.53393700710154
+"599","West Dunbartonshire",0.381301601813635
+"600","West Ham and Beckton BC",0.474235062653123
+"601","West Lancashire CC",0.547172676005528
+"602","West Suffolk CC",0.61318950447558
+"603","West Worcestershire CC",0.528182521986062
+"604","Westmorland and Lonsdale CC",0.49638296942464
+"605","Weston-super-Mare CC",0.569779869573443
+"606","Wetherby and Easingwold CC",0.499265859860032
+"607","Whitehaven and Workington CC",0.605762293480429
+"608","Widnes and Halewood CC",0.547219555218997
+"609","Wigan CC",0.641243232496043
+"610","Willesden BC",0.403180441114847
+"611","Wimbledon and Coombe BC",0.30605750363052
+"612","Winchester CC",0.402640436436099
+"613","Windsor CC",0.462468783303106
+"614","Wirral West CC",0.461479484371111
+"615","Witham CC",0.615091446199215
+"616","Witney CC",0.460317073895521
+"617","Woking BC",0.438492602451966
+"618","Wokingham CC",0.425650346205484
+"619","Wolverhampton North East BC",0.694244625237182
+"620","Wolverhampton South East BC",0.698919260654028
+"621","Wolverhampton West BC",0.553253923545634
+"622","Worcester BC",0.53677243312008
+"623","Worsley and Eccles CC",0.590458444323865
+"624","Worthing West CC",0.549068577234071
+"625","Wrexham",0.580686726746833
+"626","Wycombe CC",0.436271699027947
+"627","Wyre Forest CC",0.631454747362576
+"628","Wythenshawe and Sale East BC",0.496965640999452
+"629","Yeovil CC",0.587464164034342
+"630","Ynys Mon",0.509420041632632
+"631","York Central BC",0.348126463899687
+"632","York Outer CC",0.504159069032566
